@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.xlsx
+results/businesses_prepared.csv
+results/business_segments_draft.csv
